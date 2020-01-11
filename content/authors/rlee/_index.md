@@ -14,8 +14,9 @@ role: Undergratuate Student
 
 # Organizations/Affiliations
 organizations:
-- name: School of EIC, Huazhong University of Science and Technology
-  url: "http://ei.hust.edu.cn/"
+- name: School of EIC
+        Huazhong University of Science and Technology
+ # url: "http://ei.hust.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 
