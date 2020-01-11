@@ -18,7 +18,6 @@ organizations:
   url: "http://ei.hust.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a undergraduated student in the School of [Electronic Information and Communication](http://eic.hust.edu.cn/ "电子信息与通信学院"), [Huazhong University of Science and Technology](http://www.hust.edu.cn/ "华中科技大学"), advised by [Asso. Professor](http://122.205.5.5:8084/~heixj/ "黑晓军"). My research interests include computer vision, and deep learning.
 
 interests:
 - Computer Vision
@@ -26,15 +25,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Electronic Information Engineering
+    institution: Huazhong University of Science and Technology
+    year: 2017~2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,6 +62,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a undergraduated student in the School of [Electronic Information and Communication](http://eic.hust.edu.cn/ "电子信息与通信学院"), [Huazhong University of Science and Technology](http://www.hust.edu.cn/ "华中科技大学"), advised by Ass. Professor [Yayu Gao](http://122.205.5.5:8084/~yayugao/ "Yayu Gao's Homepage") and Asso. Professor [Xiaojun Hei](http://122.205.5.5:8084/~heixj/ "黑晓军"). My research interests include computer vision, and deep learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
