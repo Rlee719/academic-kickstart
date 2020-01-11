@@ -14,7 +14,7 @@ role: Undergratuate Student
 
 # Organizations/Affiliations
 organizations:
-- name: School of EIC
+- name: School of EIC   
         Huazhong University of Science and Technology
  # url: "http://ei.hust.edu.cn/"
 
@@ -63,5 +63,5 @@ user_groups:
 - Visitors
 ---
 
-I am a undergraduated student in the School of [Electronic Information and Communication](http://eic.hust.edu.cn/ "电子信息与通信学院"), [Huazhong University of Science and Technology](http://www.hust.edu.cn/ "华中科技大学"), advised by Ass. Professor [Yayu Gao](http://122.205.5.5:8084/~yayugao/ "Yayu Gao's Homepage") and Asso. Professor [Xiaojun Hei](http://122.205.5.5:8084/~heixj/ "黑晓军"). My research interests include computer vision, and deep learning.
+I am a undergraduated student in the School of [Electronic Information and Communication](http://eic.hust.edu.cn/ "电子信息与通信学院"), [Huazhong University of Science and Technology](http://www.hust.edu.cn/ "华中科技大学"), advised by Asso. Professor [Yayu Gao](http://122.205.5.5:8084/~yayugao/ "Yayu Gao's Homepage") and Asso. Professor [Xiaojun Hei](http://122.205.5.5:8084/~heixj/ "黑晓军"). My research interests include computer vision and deep learning.
 
