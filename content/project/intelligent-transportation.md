@@ -1,7 +1,7 @@
 ---
 title: "Intelligent Transportation"
 date: 2020-01-15T01:57:14+08:00
-draft: true
+draft: false
 ---
 
 Transportation Project of Dian Group launched in the spring of 2019, the goal of which is to meet engineering requirement of the transportation system of Pingxiang city, Jiangxi. Several different problems is to solve in the project.
