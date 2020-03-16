@@ -23,6 +23,7 @@ organizations:
 interests:
 - Computer Vision
 - Deep Learning
+- Representation Learning
 
 education:
   courses:
@@ -63,5 +64,5 @@ user_groups:
 - Visitors
 ---
 
-I am a undergraduated student in the School of [Electronic Information and Communication](http://eic.hust.edu.cn/ "电子信息与通信学院"), [Huazhong University of Science and Technology](http://www.hust.edu.cn/ "华中科技大学"), advised by Asso. Professor [Yayu Gao](http://122.205.5.5:8084/~yayugao/ "Yayu Gao's Homepage") and Asso. Professor [Xiaojun Hei](http://122.205.5.5:8084/~heixj/ "黑晓军"). My research interests include computer vision and deep learning.
+I am an undergraduate student in the School of [Electronic Information and Communication](http://eic.hust.edu.cn/ "电子信息与通信学院"), [Huazhong University of Science and Technology](http://www.hust.edu.cn/ "华中科技大学"), mainly advised by Asso. Professor [Yayu Gao](http://122.205.5.5:8084/~yayugao/ "Yayu Gao's Homepage") and Asso. Professor [Xiaojun Hei](http://122.205.5.5:8084/~heixj/ "黑晓军"). My research interests include computer vision and deep learning, specifically on detection, segmentation and attention mechanism.
 
