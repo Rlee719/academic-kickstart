@@ -22,15 +22,17 @@ organizations:
 
 interests:
 - Computer Vision
-- Deep Learning
-- Representation Learning
+- Image Restoration
+- Neural Architecture Search
 
 education:
   courses:
   - course: BSc in Electronic Information Engineering
     institution: Huazhong University of Science and Technology
     year: 2017~2021
-
+experience: 
+  intern: 
+  - Netease Inc. 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -64,5 +66,5 @@ user_groups:
 - Visitors
 ---
 
-I am an undergraduate student in the School of [Electronic Information and Communication](http://eic.hust.edu.cn/ "电子信息与通信学院"), [Huazhong University of Science and Technology](http://www.hust.edu.cn/ "华中科技大学"), mainly advised by Dr. [Gao Yayu](http://122.205.5.5:8084/~yayugao/ "Yayu Gao's Homepage") and Dr. [Hei Xiaojun](http://122.205.5.5:8084/~heixj/index_en.htm "黑晓军"). I'm also with [Dian Group](https://dian.org.cn/), HUST. My research interests include computer vision and deep learning, specifically on detection, segmentation and attention mechanism.
+I am an undergraduate student in the School of [Electronic Information and Communication](http://eic.hust.edu.cn/ "电子信息与通信学院"), [Huazhong University of Science and Technology](http://www.hust.edu.cn/ "华中科技大学"), mainly advised by Dr. [Xinggang Wang](https://xinggangw.info/ "王兴刚") and Dr. [Hei Xiaojun](http://122.205.5.5:8084/~heixj/index_en.htm "黑晓军"). I'm working as an intern at NetEase Inc. since June, 2020. My research experience focuses computer vision, specifically on image restoration and neural architecture search.
 
