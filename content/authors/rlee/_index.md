@@ -66,5 +66,5 @@ user_groups:
 - Visitors
 ---
 
-I am an undergraduate student in the School of [Electronic Information and Communication](http://eic.hust.edu.cn/ "电子信息与通信学院"), [Huazhong University of Science and Technology](http://www.hust.edu.cn/ "华中科技大学"), mainly advised by Dr. [Xinggang Wang](https://xinggangw.info/ "王兴刚") and Dr. [Hei Xiaojun](http://122.205.5.5:8084/~heixj/index_en.htm "黑晓军"). I'm working as an intern at NetEase Inc. since June, 2020. My research experience focuses computer vision, specifically on image restoration and neural architecture search.
+I am an undergraduate student in the School of [Electronic Information and Communication](http://eic.hust.edu.cn/ "电子信息与通信学院"), [Huazhong University of Science and Technology](http://www.hust.edu.cn/ "华中科技大学"), mainly advised by Prof. [Yayu Gao](http://122.205.5.5:8084/~yayugao/ "高雅玙") and Prof. [Hei Xiaojun](http://122.205.5.5:8084/~heixj/index_en.htm "黑晓军"). I'm working as an intern at NetEase Inc. since June, 2020. My research experience focuses computer vision, specifically on image restoration and neural architecture search.
 
